@@ -1,0 +1,2 @@
+Olá! Este é um projeto de uma calculadora (todo programador já deve ter passado por essa fase, hahaha) que fiz quando tinha 17 anos (atualmente tenho 20) e estava guardado.
+A calculadora foi projetada na linguagem python.
